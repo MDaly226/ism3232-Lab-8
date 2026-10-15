@@ -1,9 +1,8 @@
 from business_rules import (
-    calculate_total,
-    requires_review,
     apply_discount,
+    calculate_total,
     get_approval_tier,
-    discount_price,
+    requires_review,
 )
 
 # add sample inputs
